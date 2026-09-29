@@ -34,3 +34,57 @@ h1, h2, h3, h4, h5, h6 {
     margin-bottom: .75rem;
     word-wrap: break-word;
 }
+
+/* Content imported from the data-description methodology documents. */
+.methodology-callout {
+  margin: 1rem 0;
+  padding: 1rem;
+  border-width: 3px;
+  border-color: currentColor;
+}
+
+.methodology-callout--note {
+  color: inherit;
+  border-style: solid;
+  border-color: #bf8f00;
+}
+
+.methodology-callout--good {
+  color: inherit;
+  border-style: dashed;
+  border-color: #538135;
+}
+
+.methodology-callout--bad {
+  color: inherit;
+  border-style: dotted;
+  border-color: #c00000;
+}
+
+.methodology-table-wrapper {
+  max-width: 100%;
+  margin: 1rem 0;
+  overflow-x: auto;
+}
+
+.methodology-document table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+.methodology-document th,
+.methodology-document td {
+  padding: 0.75rem;
+  border: 1px solid #bdbdbd;
+  vertical-align: top;
+}
+
+.methodology-document th {
+  background: #f5f5f5;
+  text-align: left;
+}
+
+.methodology-image {
+  text-align: center;
+}
+

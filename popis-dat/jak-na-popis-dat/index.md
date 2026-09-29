@@ -10,7 +10,19 @@ Zde najdete všechny potřebné vzdělávací materiály, které Vám pomohou s 
 ### Metodika popisu dat
 Dokument uvádí popis dat jako důležitý aspekt správy dat, motivaci k jeho tvorbě (včetně možných využití), základní teorii a postup popisu dat ve formě slovníku.
 
-[Metodika popisu dat]
+Jednotlivé kapitoly metodiky:
+
+* [O této metodice](o-této-metodice)
+* [Motivace popisu dat](motivace-popisu-dat)
+* [Využití popisu dat](využití-popisu-dat)
+* [Základy popisu dat](základy-popisu-dat)
+* [Tvorba popisu dat](tvorba-popisu-dat)
+
+### Návody pro popis dat v nástrojích
+
+* [Návod pro popis dat v nástroji Archi](návod-archi)
+* [Návod pro popis dat v nástroji Enterprise Architect](návod-enterprise-architect)
+* [Návod pro popis dat v tabulce](návod-tabulka)
 
 ### Školení
 Pro popis dat proběhla následující školení:
@@ -22,7 +34,6 @@ Po úvodní motivační části ukazuje školení celý popis dat na konkrétní
 
 [Záznam školení Popis dat veřejné správy (7. 6. 2024)]
 
-[Metodika popisu dat]: ../../přílohy/popis-dat/dokumenty/Metodika-popisu-dat.pdf "Metodika popisu dat"
 [Záznam školení Popis dat veřejné správy (7. 6. 2024)]: https://www.youtube.com/watch?v=H__fZeszjGQ "Záznam školení Popis dat veřejné správy (7. 6. 2024)"
 
 #### Popis dat veřejné správy: pokračování (6. 12. 2024)
